@@ -1,3 +1,5 @@
+package com.ufg.lucas.t08.TextoParagSent;
+
 public class Texto {
     String titulo;
 
