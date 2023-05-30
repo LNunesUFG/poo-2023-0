@@ -1,0 +1,11 @@
+package main.java.com.ufg.lucas.t09.CirculoPonto;
+
+public class Circulo {
+    double raio;
+    Ponto centro;
+
+    void transladar(double dx, double dy) {
+        this.centro.x = dx;
+        this.centro.y = dy;
+    }
+}
