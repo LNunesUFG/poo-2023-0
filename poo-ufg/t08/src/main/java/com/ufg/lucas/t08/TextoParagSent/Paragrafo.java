@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.TextoParagSent;
+package com.ufg.lucas.t08.textoparagsent;
 
 public class Paragrafo {
     int quantidadeParagrafos;

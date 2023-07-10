@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t09.Circulo;
+package com.ufg.lucas.t09.circulo;
 
 public class Circulo {
     double x;

@@ -1,4 +1,6 @@
-package main.java.com.ufg.lucas.t09.CaixeiroViajantePedidos;
+package com.ufg.lucas.t09.caixeiroviajantepedidos;
+
+import java.util.List;
 
 public class Viagem {
     List<Cidade> cidades;

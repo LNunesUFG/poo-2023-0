@@ -1,6 +1,6 @@
 package com.ufg.lucas;
 
-import main.java.com.ufg.lucas.t13.Classes.Orcamento;
+import com.ufg.lucas.t13.classes.Orcamento;
 
 public class App 
 {

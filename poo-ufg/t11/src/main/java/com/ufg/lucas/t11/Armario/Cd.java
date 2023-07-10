@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Armario;
+package com.ufg.lucas.t11.armario;
 
 public class Cd {
     

@@ -1,4 +1,4 @@
-package com.ufg.lucas.t07.Ensino;
+package com.ufg.lucas.t07.ensino;
 
 public class Disciplina {
 }

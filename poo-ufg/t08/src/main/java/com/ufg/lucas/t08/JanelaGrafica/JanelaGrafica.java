@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.JanelaGrafica;
+package com.ufg.lucas.t08.janelagrafica;
 
 import java.util.List;
 

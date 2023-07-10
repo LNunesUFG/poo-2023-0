@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t10;
+package com.ufg.lucas.t10;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ public class Cliente {
     private int idade;
     private List<Bicicleta> bikes;
 
-    public arrumarBicicleta() {
+    public void arrumarBicicleta() {
 
     }
     

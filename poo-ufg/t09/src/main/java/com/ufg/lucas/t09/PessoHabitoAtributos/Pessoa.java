@@ -1,4 +1,6 @@
-package main.java.com.ufg.lucas.t09.PessoHabitoAtributos;
+package com.ufg.lucas.t09.pessohabitoatributos;
+
+import java.util.List;
 
 public class Pessoa {
     String nome;

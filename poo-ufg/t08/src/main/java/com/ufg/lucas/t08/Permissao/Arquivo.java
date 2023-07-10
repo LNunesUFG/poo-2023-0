@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.Permissao;
+package com.ufg.lucas.t08.permissao;
 
 import java.util.List;
 

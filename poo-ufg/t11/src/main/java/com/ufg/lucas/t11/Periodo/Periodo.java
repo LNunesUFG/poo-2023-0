@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Periodo;
+package com.ufg.lucas.t11.periodo;
 
 public class Periodo {
     private Data dataFinal;

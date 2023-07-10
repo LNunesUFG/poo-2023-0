@@ -1,4 +1,6 @@
-package main.java.com.ufg.lucas.t11.Periodo;
+package com.ufg.lucas.t11.periodo;
+
+import java.util.Date;
 
 public class Data {
     private Date data;

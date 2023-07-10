@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t09.PessoaHabito;
+package com.ufg.lucas.t09.pessoahabito;
 
 public class Habito {
     

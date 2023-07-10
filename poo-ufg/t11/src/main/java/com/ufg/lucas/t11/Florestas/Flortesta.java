@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Florestas;
+package com.ufg.lucas.t11.florestas;
 
 import java.util.List;
 

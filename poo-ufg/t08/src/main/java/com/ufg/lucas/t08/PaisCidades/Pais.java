@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.PaisCidades;
+package com.ufg.lucas.t08.paiscidades;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.PontoCurva;
+package com.ufg.lucas.t08.pontocurva;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Carne;
+package com.ufg.lucas.t11.carne;
 
 public class Produto {
     private String nome;

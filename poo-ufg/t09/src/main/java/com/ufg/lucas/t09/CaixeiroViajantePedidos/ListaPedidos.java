@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t09.CaixeiroViajantePedidos;
+package com.ufg.lucas.t09.caixeiroviajantepedidos;
 
 public class ListaPedidos {
     Viagem viagens[];

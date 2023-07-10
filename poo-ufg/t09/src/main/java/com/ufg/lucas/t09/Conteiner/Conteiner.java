@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t09.Conteiner;
+package com.ufg.lucas.t09.conteiner;
 
 public class Conteiner extends Elemento {
     Elemento elementos[];

@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Lanchonete;
+package com.ufg.lucas.t11.lanchonete;
 
 import java.util.List;
 

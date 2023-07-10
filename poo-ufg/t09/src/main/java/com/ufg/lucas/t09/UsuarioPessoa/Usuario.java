@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t09.UsuarioPessoa;
+package com.ufg.lucas.t09.usuariopessoa;
 
 public class Usuario extends Pessoa {
     

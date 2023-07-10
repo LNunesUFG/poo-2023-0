@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t13.Classes;
+package com.ufg.lucas.t13.classes;
 
 public class Cliente {
     private String nome;

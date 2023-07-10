@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.Diretorio;
+package com.ufg.lucas.t08.diretorio;
 
 import java.util.List;
 

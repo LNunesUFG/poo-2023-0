@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t10;
+package com.ufg.lucas.t10;
 
 public class Proprietario {
 	private String nome;

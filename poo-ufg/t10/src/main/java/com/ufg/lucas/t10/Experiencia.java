@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t10;
+package com.ufg.lucas.t10;
 
 public class Experiencia {
     private String descricao;

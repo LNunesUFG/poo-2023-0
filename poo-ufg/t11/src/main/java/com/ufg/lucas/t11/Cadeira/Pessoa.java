@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Cadeira;
+package com.ufg.lucas.t11.cadeira;
 
 public class Pessoa {
     private String nome;

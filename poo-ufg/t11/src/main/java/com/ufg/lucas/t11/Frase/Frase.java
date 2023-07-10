@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Frase;
+package com.ufg.lucas.t11.frase;
 
 import java.util.List;
 

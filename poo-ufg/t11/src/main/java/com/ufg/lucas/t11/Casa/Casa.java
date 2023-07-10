@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Casa;
+package com.ufg.lucas.t11.casa;
 
 import java.util.List;
 

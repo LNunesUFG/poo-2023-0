@@ -1,4 +1,4 @@
-package com.ufg.lucas.t08.Empresa;
+package com.ufg.lucas.t08.empresa;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.java.com.ufg.lucas.t11.Preco;
+package com.ufg.lucas.t11.preco;
 
 public class Preco {
     private double valor;
