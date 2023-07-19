@@ -1,6 +1,6 @@
-package com.ufg.lucas;
+package com.ufg.poo;
 
-import com.ufg.lucas.t13.classes.Orcamento;
+import com.ufg.poo.t13.classes.Orcamento;
 
 public class App 
 {

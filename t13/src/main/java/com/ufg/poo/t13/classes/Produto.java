@@ -1,4 +1,4 @@
-package com.ufg.lucas.t13.classes;
+package com.ufg.poo.t13.classes;
 
 public class Produto {
     private String nome;
