@@ -1,6 +1,6 @@
-package com.ufg.lucas;
+package com.ufg.poo;
 
-import com.ufg.lucas.t18.xadrez.Partida;
+import com.ufg.poo.t18.xadrez.Partida;
 
 public class App {
     public static void main( String[] args ) {

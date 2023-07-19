@@ -1,4 +1,4 @@
-package com.ufg.lucas;
+package com.ufg.poo;
 
 import static org.junit.Assert.assertTrue;
 

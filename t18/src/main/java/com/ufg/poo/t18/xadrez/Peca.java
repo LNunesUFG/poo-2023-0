@@ -1,4 +1,4 @@
-package com.ufg.lucas.t18.xadrez;
+package com.ufg.poo.t18.xadrez;
 
 public class Peca {
     private String nome;
