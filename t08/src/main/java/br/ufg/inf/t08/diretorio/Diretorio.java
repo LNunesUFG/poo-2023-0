@@ -1,4 +1,4 @@
-package com.ufg.poo.t08.diretorio;
+package br.ufg.inf.t08.diretorio;
 
 import java.util.List;
 
