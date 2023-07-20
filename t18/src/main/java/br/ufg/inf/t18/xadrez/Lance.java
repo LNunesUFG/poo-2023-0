@@ -1,4 +1,4 @@
-package com.ufg.poo.t18.xadrez;
+package br.ufg.inf.t18.xadrez;
 
 public class Lance {
     private Jogador jogadorDaVez;

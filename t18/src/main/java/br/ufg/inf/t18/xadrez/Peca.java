@@ -1,10 +1,9 @@
-package com.ufg.poo.t18.xadrez;
+package br.ufg.inf.t18.xadrez;
 
-
-public class Jogador {
+public class Peca {
     private String nome;
 
-    public Jogador(String nome) {
+    public Peca(String nome) {
         this.nome = nome;
     }
 
