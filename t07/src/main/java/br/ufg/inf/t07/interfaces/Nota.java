@@ -1,4 +1,4 @@
-package br.ufg.inf.t07.interfacepoo;
+package br.ufg.inf.t07.interfaces;
 
 public class Nota implements Comparable { 
     @Override
