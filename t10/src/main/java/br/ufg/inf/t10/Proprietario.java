@@ -1,4 +1,4 @@
-package com.ufg.poo.t10;
+package br.ufg.inf.t10;
 
 public class Proprietario {
 	private String nome;
