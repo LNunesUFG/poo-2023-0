@@ -1,6 +1,6 @@
-package com.ufg.poo;
+package br.ufg.inf;
 
-import com.ufg.poo.t13.classes.Orcamento;
+import br.ufg.inf.t13.classes.Orcamento;
 
 public class App 
 {

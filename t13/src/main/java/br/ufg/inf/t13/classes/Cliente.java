@@ -1,4 +1,4 @@
-package com.ufg.poo.t13.classes;
+package br.ufg.inf.t13.classes;
 
 public class Cliente {
     private String nome;

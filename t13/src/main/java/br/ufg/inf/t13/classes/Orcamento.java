@@ -1,4 +1,4 @@
-package com.ufg.poo.t13.classes;
+package br.ufg.inf.t13.classes;
 
 import java.util.ArrayList;
 import java.util.List;
