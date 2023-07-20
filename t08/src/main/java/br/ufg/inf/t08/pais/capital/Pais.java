@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.paiscidades.paiscidadecapital;
+package br.ufg.inf.t08.pais.capital;
 
 import java.util.List;
 

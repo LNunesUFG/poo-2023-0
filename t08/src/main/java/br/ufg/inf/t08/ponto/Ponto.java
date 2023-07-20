@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.pontocurva;
+package br.ufg.inf.t08.ponto;
 
 public class Ponto {
     int x;

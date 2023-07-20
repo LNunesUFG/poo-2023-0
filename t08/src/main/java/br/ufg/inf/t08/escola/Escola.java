@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.escolaendereco;
+package br.ufg.inf.t08.escola;
 
 public class Escola extends Endereco {
 }

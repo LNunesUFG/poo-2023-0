@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.pontocurva;
+package br.ufg.inf.t08.ponto;
 
 import java.util.List;
 

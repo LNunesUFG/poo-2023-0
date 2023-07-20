@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.projetolp;
+package br.ufg.inf.t08.linguagem;
 
 public class LinguagemProgramacao {   
 }

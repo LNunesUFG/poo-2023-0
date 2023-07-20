@@ -1,4 +1,4 @@
-package br.ufg.inf.t08.textoparagsent;
+package br.ufg.inf.t08.texto;
 
 public class Texto {
     String titulo;
